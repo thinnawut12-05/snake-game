@@ -53,7 +53,7 @@ def gameLoop():
 
         while game_close == True:
             dis.fill(blue)
-            message("คุณแพ้แล้ว! กด Q-เลิก หรือ C-เล่นใหม่", red)
+            message("You have lost! Press Q to exit, or C to start again.", red)
             pygame.display.update()
 
             for event in pygame.event.get():
