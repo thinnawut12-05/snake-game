@@ -6,11 +6,10 @@
 # ขั้นตอนการติดตั้ง 🔍
 
 ## 1. ติดตั้ง Pygame ก่อน
-
 เปิด Command Prompt (CMD) แล้วพิมพ์:
 
 
-pip install pygame
+	pip install pygame
 
 1.1  **อัปเดต pip ก่อน **  
     พิมพ์คำสั่งนี้ในหน้าเดิมเลยครับ:
